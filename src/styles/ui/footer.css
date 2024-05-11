@@ -1,0 +1,13 @@
+.footer {
+  position: sticky;
+  bottom: 0;
+  right: 42%;
+}
+
+.footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 1.2rem;
+}

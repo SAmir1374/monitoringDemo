@@ -1,0 +1,9 @@
+input {
+  width: 400px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 30px;
+  padding: 12px 12px 12px 50px;
+  font-family: "Franklin Gothic Medium", "Dana", "Arial Narrow", Arial, sans-serif;
+}

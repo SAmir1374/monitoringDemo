@@ -1,0 +1,22 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    font-size: 1.3rem;
+    gap: 15px;
+}
+
+
+.contact .number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.contact .number svg{
+    font-size: 3rem;
+}

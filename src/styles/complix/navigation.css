@@ -1,0 +1,47 @@
+.nav {
+  position: sticky;
+  top: 0;
+  margin: 0;
+  padding: 12px 0;
+  transition: transform 0.3s ease-in-out;
+}
+
+.nav .navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav .logo {
+  width: 100px;
+  height: 100px;
+}
+
+.nav ul {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.nav ul li {
+  list-style: none;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.visible {
+  transform: translateY(0);
+}
+
+.hidden {
+  transform: translateY(-100%);
+}
+
+@media only screen and (max-width: 600px) {
+  .nav .logo {
+    display: none;
+  }
+}

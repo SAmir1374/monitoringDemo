@@ -1,0 +1,23 @@
+.boxWrapper {
+  backdrop-filter: blur(8px);
+  padding: 18px;
+  padding-top: 8px;
+  border-radius: 14px;
+  color: #fff;
+  -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.6);
+  box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.6);
+}
+
+.boxTitle {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.boxNumber {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  font-size: 25px;
+}

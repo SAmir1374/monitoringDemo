@@ -1,0 +1,29 @@
+.navitationWallImageLayout {
+  background-color: rgba(69, 69, 69, 0.9);
+  z-index: 999;
+}
+
+.glassCoverWallImageLayout {
+  height: fit-content !important;
+}
+
+.footerWallImageLayout {
+  position: relative !important;
+  width: fit-content;
+}
+
+.footerWallImageLayout p {
+  margin-bottom: 0;
+}
+
+.containerWallImageLayout {
+    width: 95%;
+    margin: auto;
+  }
+
+@media (max-width: 1024px) {
+  .containerWallImageLayout {
+    width: 100%;
+    margin: auto;
+  }
+}

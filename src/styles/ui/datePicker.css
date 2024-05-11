@@ -1,0 +1,14 @@
+.myInput input {
+  width: 210px !important;
+  padding-left: 12px !important;
+  font-family: 'Dana' !important; 
+}
+
+
+@media ( min-width : 600px ){
+  .myInput input {
+    width: 300px !important;
+    padding-left: 12px !important;
+    font-family: 'Dana' !important; 
+  }
+}

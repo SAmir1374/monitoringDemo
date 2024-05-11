@@ -1,0 +1,17 @@
+.navitationReportsLayout {
+  background-color: rgba(69, 69, 69, 0.5);
+  z-index: 999;
+}
+
+.glassCoverReportsLayout {
+  height: fit-content !important;
+}
+
+.footerReportsLayout {
+  position: relative !important;
+  width: fit-content;
+}
+
+.footerReportsLayout p {
+  margin-bottom: 0;
+}

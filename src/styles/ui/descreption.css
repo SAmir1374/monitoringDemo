@@ -1,0 +1,11 @@
+.descreption{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.descreption p{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}

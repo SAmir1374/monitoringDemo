@@ -1,0 +1,10 @@
+.sensor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sensor p{
+    margin-top: 5px;
+    margin-bottom: 7px;
+}

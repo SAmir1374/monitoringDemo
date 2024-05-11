@@ -1,0 +1,52 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 12px;
+  color: #fff;
+}
+
+.myGridTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.divider {
+  width: 2px;
+  background-color: #fff;
+}
+
+.mychart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff !important;
+}
+
+.test {
+  height: 250px !important;
+  min-width: 250px !important;
+  color: #fff !important;
+}
+
+.yAxis {
+  padding: 50px !important;
+}
+
+.reportsLoader{
+  position: absolute;
+  background-color: rgba(69, 69, 69, 0.5);
+  border-radius: 12px;
+  top: 30%;
+  z-index: 999;
+  width: 90%;
+  height: 70%;
+}
+
+
+@media only screen and (max-width: 600px){
+  .summryTitle{
+    display: none;
+  }
+}
