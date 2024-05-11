@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/monitoringDemo/static/css/main.358fe43a.css",
+    "main.css": "/monitoringDemo/static/css/main.bae40fe8.css",
     "main.js": "/monitoringDemo/static/js/main.13e31e55.js",
     "static/media/monitoring.jpg": "/monitoringDemo/static/media/monitoring.c77179a201a70a86e021.jpg",
     "static/media/chart.jpg": "/monitoringDemo/static/media/chart.940d63ae641dddca5763.jpg",
     "static/media/defualtmonitoring.jpg": "/monitoringDemo/static/media/defualtmonitoring.0fad88c7f63e8bd1a0b6.jpg",
     "static/media/witheWistham.png": "/monitoringDemo/static/media/witheWistham.1b9e93d3c0ac74301ff3.png",
     "index.html": "/monitoringDemo/index.html",
-    "main.358fe43a.css.map": "/monitoringDemo/static/css/main.358fe43a.css.map",
+    "main.bae40fe8.css.map": "/monitoringDemo/static/css/main.bae40fe8.css.map",
     "main.13e31e55.js.map": "/monitoringDemo/static/js/main.13e31e55.js.map"
   },
   "entrypoints": [
-    "static/css/main.358fe43a.css",
+    "static/css/main.bae40fe8.css",
     "static/js/main.13e31e55.js"
   ]
 }
